@@ -1,6 +1,6 @@
 # Android Sharing App: Capstone Project - Object oriented Design
 
-This repository contains the source code for my capstone project in the Object Oriented Design course at the University of Alberta (Coursera). 
+This repository contains the source code for my capstone project in the [Object Oriented Design course at the University of Alberta](https://www.coursera.org/learn/object-oriented-design/home/info) (Coursera). 
 The project is a simple Android app that was expanded during the capstone project, to allows users to manage 
 not only their inventory but also their contacts.
 
